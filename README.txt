@@ -1,1 +1,2 @@
-
+# Olayinka Christiana Adefila
+Highly motivated Data Analyst with a strong data collection, cleaning, analysis, and visualization foundation. Proficient in leveraging advanced Excel, SQL, Python, Tableau, and Power BI to transform complex data sets into actionable insights that drive strategic decision-making. Strong analytical and problem-solving skills, proven to work collaboratively in team-oriented environments and independently when needed.
